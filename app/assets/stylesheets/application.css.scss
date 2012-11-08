@@ -11,3 +11,18 @@
  *= require_self
  *= require_tree .
  */
+ @import "bootstrap";
+#credits{
+
+
+    span{
+        margin:0 10px 0 0;
+    }
+}
+.field input{
+    width: 600px;
+}
+.field textarea{
+    width: 600px;
+    height:200px;
+}
